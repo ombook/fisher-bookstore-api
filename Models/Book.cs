@@ -10,7 +10,7 @@ namespace Fisher.Bookstore.Api.Models
 
         public string Author { get; set; }
 
-        public string ISBN { get; set; }
+        public string Isbn { get; set; }
 
         public DateTime PublishDate { get; set; }
 
